@@ -1,6 +1,6 @@
-🚀 **Today I learned how NestJS magic really works under the hood!**  
-
 <img src="./assets/25th-december.png">
+
+🚀 **Today I learned how NestJS magic really works under the hood!**  
 
 As a JavaScript and TypeScript enthusiast, I always wondered: *How do decorators in NestJS automatically create routes, handle validation, and generate Swagger docs?*  
 
